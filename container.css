@@ -1,3 +1,6 @@
+h1{
+  background-color: #red;
+}
 appcues-layer .appcues-backdrop {
   position: fixed;
   background-color: #eee;
